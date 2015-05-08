@@ -20,7 +20,7 @@ I would love help on Animation, Programming, Artwork, and Modeling.
 
 
 Tools that I use:
-• Hexels (for the UI)
-• MagicaVoxels (for the models)
+- Hexels (for the UI)
+- MagicaVoxels (for the models)
 
 Music Credits to Arga Bileg.
